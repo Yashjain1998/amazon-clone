@@ -1,0 +1,22 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10vh;
+    align-items: center;
+    justify-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: space-between;
+    gap: 2vh;
+}
+input{
+    
+    font-size: 2vw;
+    margin-bottom: 4vh;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
